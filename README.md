@@ -9,9 +9,14 @@ It allows easy extensions if necessary such as
 
 -   crack propagation
 -   half-space
--   heterogeneous friction and cohesion
+-   heterogeneous friction and cohesionv
 -   material heterogeneity
 -   ...
+
+## Running
+<p align="center">
+    <a href=" https://geopipot.github.io/vinci/"><b>Launch the app...</b></a>
+</p>
 
 ## Documentation
 
