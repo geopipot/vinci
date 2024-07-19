@@ -16,7 +16,7 @@ It allows easy extensions if necessary such as
 ## Running
 
 <p align="center">
-    <a href=" https://geopipot.github.io/vinci/"><b>Launch the app...</b></a>
+    <a href="https://geopipot.github.io/vinci/"><b>Launch the app...</b></a>
 </p>
 
 ## Documentation
